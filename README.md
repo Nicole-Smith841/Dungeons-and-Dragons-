@@ -20,3 +20,4 @@ Creating graphs of the data that measured size and challenege rating, my thought
 
 
 This graph would indicate that yes, there is less HP for the smaller sized monsters than there are for the larger ones. 
+However, the thing that this data and graph dont quite grasp is the power of story telling that is also engagement based. The wonder of interactive story telling can sometimes outweigh the engagement brought about by varying levels of size and challenge rating. So while yes, the biiger the target the more XP you get and therefore more engagement, something to also consider is the group of people who are playing with you and how the players choose to intereact as well. 
